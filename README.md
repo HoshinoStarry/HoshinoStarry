@@ -1,6 +1,6 @@
 <p align='center'>
-    <img src='https://github-readme-stats.vercel.app/api?username=Error063&title_color=ffaabb&bg_color=373e47&text_color=a9fef7&icon_color=ffaabb&hide_border=true&show_icons=true&locale=cn'>
-    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Error063&layout=compact&langs_count=8&theme=calm&role=OWNER,ORGANIZATION_MEMBER" alt="Top Langs" height="185px" />
+    <img src='https://github-readme-stats.vercel.app/api?username=HoshinoStarry&title_color=ffaabb&bg_color=373e47&text_color=a9fef7&icon_color=ffaabb&hide_border=true&show_icons=true&locale=cn'>
+    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=HoshinoStarry&layout=compact&langs_count=8&theme=calm&role=OWNER,ORGANIZATION_MEMBER" alt="Top Langs" height="185px" />
 </p>
 
 
@@ -10,5 +10,5 @@
 
 ### 会啥（按照熟练度）
 
-1. Python （基本上熟练）
-2. HTML + CSS + Javascript （不会Vue） Java，C#（勉强）
+1. Python （基本上熟练），C#（微软是我爹）
+2. HTML + CSS + Javascript （不会Vue）, Java
