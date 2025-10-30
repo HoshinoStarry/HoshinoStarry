@@ -10,5 +10,6 @@
 
 ### 会啥（按照熟练度）
 
-1. Python （基本上熟练），C#（微软是我爹）
-2. HTML + CSS + Javascript （不会Vue）, Java
+1. Python （评价是不如右边一条），C#（微软是我爹）
+2. HTML + CSS + Javascript （可能会Vue？）
+3. Java（什么东西）
